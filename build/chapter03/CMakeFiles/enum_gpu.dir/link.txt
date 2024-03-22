@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/enum_gpu.dir/enum_gpu.cu.o CMakeFiles/enum_gpu.dir/cmake_device_link.o -o enum_gpu  -lcudadevrt -lcudart_static -lrt -lpthread -ldl  -L"/usr/local/cuda/targets/x86_64-linux/lib/stubs" -L"/usr/local/cuda/targets/x86_64-linux/lib"

@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.22)
+project(chapter05 CUDA)
+
+add_executable(add_loop_long_blocks add_loop_long_blocks.cu)
+set_target_properties(add_loop_long_blocks PROPERTIES CUDA_SEPARABLE_COMPILATION ON)

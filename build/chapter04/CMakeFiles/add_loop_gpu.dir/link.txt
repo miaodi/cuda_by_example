@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/add_loop_gpu.dir/add_loop_gpu.cu.o CMakeFiles/add_loop_gpu.dir/cmake_device_link.o -o add_loop_gpu  -lcudadevrt -lcudart_static -lrt -lpthread -ldl  -L"/usr/local/cuda/targets/x86_64-linux/lib/stubs" -L"/usr/local/cuda/targets/x86_64-linux/lib"

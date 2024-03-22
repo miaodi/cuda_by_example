@@ -1,0 +1,1 @@
+/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler -O3 -DNDEBUG --generate-code=arch=compute_52,code=[compute_52,sm_52] -Xcompiler=-fPIC -Wno-deprecated-gpu-targets -shared -dlink CMakeFiles/julia_gpu.dir/julia_gpu.cu.o -o CMakeFiles/julia_gpu.dir/cmake_device_link.o   -lcudadevrt -lcudart_static -lrt -lpthread -ldl 

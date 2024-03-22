@@ -1,0 +1,14 @@
+/home/dimiao/Downloads/cuda_by_example/build/CMakeFiles/edit_cache.dir
+/home/dimiao/Downloads/cuda_by_example/build/CMakeFiles/rebuild_cache.dir
+/home/dimiao/Downloads/cuda_by_example/build/chapter03/CMakeFiles/enum_gpu.dir
+/home/dimiao/Downloads/cuda_by_example/build/chapter03/CMakeFiles/edit_cache.dir
+/home/dimiao/Downloads/cuda_by_example/build/chapter03/CMakeFiles/rebuild_cache.dir
+/home/dimiao/Downloads/cuda_by_example/build/chapter04/CMakeFiles/add_loop_gpu.dir
+/home/dimiao/Downloads/cuda_by_example/build/chapter04/CMakeFiles/add_loop_long.dir
+/home/dimiao/Downloads/cuda_by_example/build/chapter04/CMakeFiles/julia_gpu.dir
+/home/dimiao/Downloads/cuda_by_example/build/chapter04/CMakeFiles/julia_cpu.dir
+/home/dimiao/Downloads/cuda_by_example/build/chapter04/CMakeFiles/edit_cache.dir
+/home/dimiao/Downloads/cuda_by_example/build/chapter04/CMakeFiles/rebuild_cache.dir
+/home/dimiao/Downloads/cuda_by_example/build/chapter05/CMakeFiles/add_loop_long_blocks.dir
+/home/dimiao/Downloads/cuda_by_example/build/chapter05/CMakeFiles/edit_cache.dir
+/home/dimiao/Downloads/cuda_by_example/build/chapter05/CMakeFiles/rebuild_cache.dir

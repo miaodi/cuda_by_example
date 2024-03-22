@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/add_loop_long_blocks.dir/add_loop_long_blocks.cu.o CMakeFiles/add_loop_long_blocks.dir/cmake_device_link.o -o add_loop_long_blocks  -lcudadevrt -lcudart_static -lrt -lpthread -ldl  -L"/usr/local/cuda/targets/x86_64-linux/lib/stubs" -L"/usr/local/cuda/targets/x86_64-linux/lib"
